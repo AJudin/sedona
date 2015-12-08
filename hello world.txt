@@ -1,1 +1,5 @@
 print (‘hello world’)
+print (‘hello worl’)
+print (‘hello wor’)
+print (‘hello wo’)
+print (‘hello w’)
